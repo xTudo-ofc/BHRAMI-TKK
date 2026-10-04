@@ -1,0 +1,120 @@
+# Política de Privacidade
+
+**Última atualização: 4 de outubro de 2026**
+
+A **BHRAMI Web Station** é uma plataforma de transmissão de rádio pela internet. Seu objetivo é disponibilizar gratuitamente uma transmissão de áudio online aos seus ouvintes.
+
+A BHRAMI valoriza a privacidade e procura manter o serviço o mais simples e livre de coleta de informações pessoais possível.
+
+## 1. Dados pessoais
+
+A BHRAMI Web Station **não solicita nem mantém cadastro de ouvintes**.
+
+Não solicitamos, para utilização da plataforma:
+
+- nome;
+- CPF;
+- endereço;
+- número de telefone;
+- e-mail;
+- data de nascimento;
+- localização pessoal;
+- senha;
+- conta de usuário;
+- outras informações pessoais para criação de perfil.
+
+A BHRAMI também **não vende dados pessoais**, não cria perfis de ouvintes para publicidade e não utiliza dados pessoais para fins de marketing comportamental.
+
+## 2. Dados técnicos da conexão
+
+Para que qualquer serviço de internet funcione, determinadas informações técnicas podem ser processadas automaticamente durante a conexão.
+
+Isso pode incluir informações como:
+
+- endereço IP;
+- informações do navegador;
+- tipo de dispositivo;
+- sistema operacional;
+- data e horário da conexão;
+- informações técnicas necessárias para estabelecer e manter a comunicação.
+
+Essas informações **não são solicitadas pela BHRAMI para identificar pessoalmente o ouvinte** e não são utilizadas pela BHRAMI para criar cadastro, perfil pessoal ou banco de dados de ouvintes.
+
+O processamento dessas informações técnicas ocorre principalmente como consequência necessária do funcionamento da infraestrutura de internet.
+
+## 3. Cloudflare
+
+A BHRAMI utiliza o **Cloudflare Tunnel** para estabelecer a conexão entre a infraestrutura da estação e a internet.
+
+Por esse motivo, informações técnicas de conexão podem ser processadas pela infraestrutura do Cloudflare durante o acesso aos serviços da BHRAMI.
+
+A BHRAMI não utiliza o Cloudflare para criar perfis pessoais dos ouvintes ou realizar publicidade comportamental.
+
+## 4. GitHub
+
+A BHRAMI utiliza o **GitHub** como ferramenta de desenvolvimento e armazenamento dos arquivos utilizados na construção de sua plataforma.
+
+Entre esses arquivos podem estar:
+
+- HTML;
+- CSS;
+- JavaScript;
+- imagens;
+- arquivos de configuração;
+- outros arquivos relacionados ao projeto.
+
+O GitHub é utilizado para o desenvolvimento e gerenciamento técnico da plataforma e não como sistema de cadastro dos ouvintes.
+
+## 5. Cookies e rastreamento
+
+A BHRAMI não utiliza intencionalmente sistemas próprios de rastreamento destinados a identificar ou criar perfis de seus ouvintes.
+
+Também não utiliza dados de navegação dos ouvintes para publicidade comportamental.
+
+Serviços de terceiros utilizados na infraestrutura podem possuir suas próprias tecnologias, cookies ou mecanismos técnicos. Esses recursos estão sujeitos às respectivas políticas de privacidade desses serviços.
+
+## 6. Transmissão de rádio
+
+A principal função da BHRAMI Web Station é disponibilizar uma transmissão de áudio pela internet.
+
+A transmissão é disponibilizada de forma gratuita e não exige que o ouvinte forneça dados pessoais para ouvi-la.
+
+## 7. Conteúdo
+
+A BHRAMI disponibiliza sua transmissão de rádio sob os termos de licença aplicáveis ao conteúdo disponibilizado.
+
+Quando indicado que determinado conteúdo é disponibilizado sob **CC BY 4.0**, ele pode ser utilizado de acordo com os termos dessa licença, incluindo as condições de atribuição estabelecidas pela própria licença.
+
+## 8. Compartilhamento de dados
+
+A BHRAMI não comercializa nem vende dados pessoais dos ouvintes.
+
+Dados técnicos necessários ao funcionamento da conexão podem passar pela infraestrutura de terceiros utilizada pela plataforma, especialmente o Cloudflare.
+
+A BHRAMI não utiliza esses dados para criar perfis pessoais de ouvintes.
+
+## 9. Segurança
+
+A BHRAMI procura utilizar medidas técnicas razoáveis para manter sua infraestrutura funcionando de maneira segura e reduzir acessos não autorizados.
+
+Entretanto, nenhum serviço conectado à internet pode garantir segurança absoluta.
+
+## 10. Direitos do titular
+
+Quando houver tratamento de dados pessoais sujeito à LGPD, o titular possui os direitos previstos na legislação aplicável, incluindo os direitos de informação, confirmação e acesso, entre outros previstos em lei.
+
+## 11. Alterações
+
+Esta Política de Privacidade poderá ser atualizada quando houver mudanças na plataforma, na infraestrutura ou nas práticas relacionadas à privacidade.
+
+A versão atualizada será disponibilizada nesta página.
+
+## 12. Contato
+
+Para assuntos relacionados à privacidade da BHRAMI Web Station, utilize os canais oficiais de contato disponibilizados pela própria BHRAMI.
+
+---
+
+**BHRAMI Web Station**  
+Plataforma independente de transmissão de rádio pela internet  
+Brasil
