@@ -1,0 +1,107 @@
+# Termos de Serviço
+
+**Última atualização: 4 de outubro de 2026**
+
+Bem-vindo à **BHRAMI Web Station**.
+
+A BHRAMI Web Station é uma plataforma independente de transmissão de rádio pela internet. Ao acessar ou utilizar a plataforma, você concorda com estes Termos de Serviço.
+
+## 1. Sobre a BHRAMI
+
+A BHRAMI Web Station tem como finalidade disponibilizar uma transmissão de rádio pela internet, permitindo que qualquer pessoa acesse e ouça a programação gratuitamente.
+
+A plataforma não exige criação de conta ou cadastro para ouvir a transmissão.
+
+## 2. Uso permitido
+
+Você pode:
+
+- acessar a BHRAMI Web Station;
+- ouvir a transmissão de rádio;
+- compartilhar o endereço da plataforma;
+- utilizar a plataforma para fins pessoais e legítimos.
+
+O acesso à transmissão é disponibilizado gratuitamente.
+
+## 3. Uso proibido
+
+Não é permitido utilizar a plataforma para:
+
+- realizar atividades ilegais;
+- tentar obter acesso não autorizado à infraestrutura da BHRAMI;
+- interferir intencionalmente no funcionamento da transmissão;
+- realizar ataques ou tentativas de exploração da infraestrutura;
+- sobrecarregar deliberadamente os serviços;
+- utilizar a infraestrutura da BHRAMI para atividades que possam prejudicar outros usuários ou a própria estação.
+
+## 4. Disponibilidade
+
+A BHRAMI procura manter sua transmissão disponível continuamente, mas não garante que ela estará disponível 24 horas por dia, todos os dias.
+
+A transmissão pode ficar temporariamente indisponível devido a:
+
+- manutenção;
+- falhas de internet;
+- problemas de energia;
+- falhas de equipamentos;
+- problemas técnicos;
+- indisponibilidade de serviços de terceiros;
+- outras situações que impeçam o funcionamento normal da estação.
+
+## 5. Conteúdo da transmissão
+
+A programação da BHRAMI pode ser alterada, interrompida ou substituída a qualquer momento.
+
+A disponibilidade de determinadas músicas ou conteúdos não é garantida.
+
+Quando conteúdos forem disponibilizados sob uma licença específica, como **Creative Commons Attribution 4.0 International (CC BY 4.0)**, os respectivos termos da licença aplicável deverão ser respeitados.
+
+## 6. Conteúdo sob CC BY 4.0
+
+Quando identificado como **CC BY 4.0**, o conteúdo é disponibilizado sob os termos da licença Creative Commons Attribution 4.0 International.
+
+Essa licença permite determinados usos do conteúdo, desde que suas condições sejam respeitadas, especialmente a atribuição adequada ao autor ou aos titulares dos direitos.
+
+A licença aplicável ao conteúdo específico prevalece sobre qualquer interpretação destes Termos relacionada ao uso daquele conteúdo.
+
+## 7. Serviços de terceiros
+
+A infraestrutura da BHRAMI utiliza serviços de terceiros.
+
+O **Cloudflare** é utilizado para estabelecer o túnel de conexão entre a infraestrutura da estação e a internet.
+
+O **GitHub** é utilizado para desenvolvimento e armazenamento dos arquivos do projeto da plataforma, incluindo HTML, CSS, JavaScript e outros recursos.
+
+Esses serviços possuem seus próprios termos de uso e políticas de privacidade.
+
+## 8. Links externos
+
+A BHRAMI pode disponibilizar links para outros sites ou serviços.
+
+Esses sites não são necessariamente controlados pela BHRAMI, e seus próprios termos e políticas podem ser aplicáveis.
+
+## 9. Limitação de responsabilidade
+
+A BHRAMI Web Station não garante que o serviço estará livre de interrupções, erros ou falhas.
+
+A BHRAMI não se responsabiliza por problemas causados por fatores externos à sua infraestrutura, incluindo falhas na conexão de internet do usuário, dispositivos, provedores de internet ou serviços de terceiros.
+
+## 10. Alterações nos termos
+
+A BHRAMI poderá atualizar estes Termos de Serviço quando necessário.
+
+A versão mais recente estará sempre disponível nesta página.
+
+## 11. Aceitação
+
+Ao continuar utilizando a BHRAMI Web Station após a publicação de alterações nestes termos, o usuário estará sujeito à versão atualizada dos Termos de Serviço.
+
+## 12. Contato
+
+Para dúvidas relacionadas à BHRAMI Web Station ou a estes Termos de Serviço, utilize os canais oficiais de contato disponibilizados pela estação.
+
+---
+
+**BHRAMI Web Station**  
+Plataforma independente de transmissão de rádio pela internet  
+Brasil
